@@ -1,0 +1,145 @@
+GreatCart Notes:-
+=================
+
+Section 4 : Dive into virtual Environment and Setup the Project
+---------------------------------------------------------------
+
+* Creating Virtual Environment 
+-------------------------------
+  - Create the folder-> open that folder with GitBash type following command -> 
+    $python -m venv env
+  - To activate virtual Environment you have to ender following command
+    $source env/Scripts/activate
+  - To deactivate or comeout from the env 
+    $deactivate
+
+   Admin@DESKTOP-VLB3NP9 MINGW64 ~/Desktop/Udemy Learning Django/GreatCart
+   $ source env/Scripts/activate
+   (env)
+   Admin@DESKTOP-VLB3NP9 MINGW64 ~/Desktop/Udemy Learning Django/GreatCart
+   $ deactivate
+
+* To See globally installed all packages type $pip freeze
+  $ pip freeze
+asgiref==3.7.2
+Django==5.0.3
+sqlparse==0.4.4
+tzdata==2024.1
+
+
+* py manage.py collectstatic command to create static folder inside that admin folder 
+  it creates automatically when you run this command.
+ -py manage.py collectstatic When you run this command, it copy all folders automatically
+  from manually created static folder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
